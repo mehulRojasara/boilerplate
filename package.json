@@ -39,7 +39,7 @@
     "bootstrap": "^4.4.1",
     "imagesloaded": "^4.1.4",
     "isotope-layout": "^3.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "justifiedGallery": "^3.7.0",
     "swiper": "^4.5.1",
     "wow.js": "^1.2.2"
